@@ -1,2 +1,3 @@
 # ReactToDoApp
-# ReactToDoApp
+Simple React To Do App
+
